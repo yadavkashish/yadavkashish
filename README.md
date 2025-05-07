@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend developer passionate about intuitive UIs. Enthusiastic about open source, learning new technologies, and building impactful web solutions
+Kashish _just a curious developer
 
 
 ## 🌐 Socials:
